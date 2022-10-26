@@ -1,1 +1,1 @@
- This file contains DBUtil.java
+ hello we are using JDBC for connection
